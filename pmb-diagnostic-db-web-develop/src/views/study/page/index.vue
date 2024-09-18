@@ -21,7 +21,7 @@
          
           <!-- <div class="image-parent">
             <StaticsImages @handleList="handleList" :title="'Planned Dx strategy number in ' + new Date().getFullYear()" :isLink="true" :type="'plannedDxStrategy'"
-              :count-num="plannedDxStrategyNumberThisYear" style="flex:1" />
+              :count-num="aplannedDxStrategyNumberThisYear" style="flex:1" />
             <StaticsImages @handleList="handleList" :title="'Planned Lab Readiness number in ' + new Date().getFullYear()" :isLink="true" :type="'plannedLabReadiness'"
               :count-num="plannedLabReadinessNumberThisYear" style="flex:1" />
             <StaticsImages @handleList="handleList" :title="'Planned FST number in ' + new Date().getFullYear()" :isLink="true" :type="'plannedFstNumber'"
